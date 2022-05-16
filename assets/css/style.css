@@ -38,7 +38,7 @@ nav a {
 
 /* This main section contains the seo, orm and smm content and limits its width. */
 main {
-    width: 75%;
+    width: 65%;
 }
 
 /* This is all the paragraphs on the page. just like the img tag its set to fit in div depending on window size. */
@@ -48,7 +48,7 @@ p {
     width: 100%;
 }
 
-/* This is all the images on the page, its set to fit the div. Also the img's shrink if window size shrinks far enough to reduce original img size. */
+/* This is all the images on the page, its set to fit the div. Also the img's shrink if window size shrinks far enough to reduce original img size. (optimized original photos for faster loading time) */
 img {
     max-width: 100%;
     max-height: 100%;
@@ -103,7 +103,7 @@ header h1 .seo {
     color: #ffffff;
 }
 
-/* Image for seo section */
+/* Image for seo section !!Float not wokrking!! */
 .left img {
     float: left;
     margin: 10px auto;
@@ -119,13 +119,13 @@ header h1 .seo {
     color: #ffffff;
 }
 
-/* controls image for Online rep section. */
+/* controls image for Online rep section. !!Float not working!! */
 .right img {
     float: right;
     margin: 10px auto;
 }
 
-/*sets the parameters for the benefits section giving its font color, family, spacing, and background color. etc. */
+/*sets the parameters for the benefits section giving its font family, spacing, and background color. etc. */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -136,15 +136,16 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     text-align: center;
+    display: inline-block;
 }
 
-/*lead generations spacing and font color*/
+/*benefits spacing and font color (appears on bottom right of webpage.)*/
 .benefitcss {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*"lead generation" title's spacing and alignment.*/
+/*benefit titles' color, alignment, and spacing.*/
 .benefitcss h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -153,7 +154,7 @@ aside {
     justify-content: center;
 }
 
-/*funnel image's alignment and spacing.*/
+/* the images alignment for the aside section.*/
 .benefitcss img {
     display: flex;
     justify-content: center;

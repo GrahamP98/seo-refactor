@@ -1,21 +1,21 @@
 # Seo-refactor README
 
-[LIVE SITE](https://grahamp98.github.io/seo-refactor/)
-
 [GITHUB PROFILE](https://github.com/GrahamP98)
 
 ## Table Of Contents
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
-4. [Resources](#resources)
+2. [Run](#run)
+3. [Usage](#usage)
+4. [Visuals](#visuals)
+5. [Resources](#resources)
+6. [Bugs](#bugs)
 
 
 ## Description
 This is a webpage that goes into detail over Search Engine Optimization, Online Reputation Management, Social Media Marketing, Lead Generation, Brand Awareness, and Cost Management. simple single page layout.
 
 ## Run
-To run the page simply click on the deployment URL [here](https://grahamp98.github.io/seo-refactor/) or above. Also you can also click [here](https://github.com/GrahamP98/seo-refactor) to access the repository in github.
+To run the page simply click on the deployment URL [here](https://grahamp98.github.io/seo-refactor/). Also you can also click [here](https://github.com/GrahamP98/seo-refactor) to access the repository in github. The links are also listed in the [resources](#resources) section.
 
 ## Usage
 One page scroll to read information about each listed topic. Alternatively you can use the navigation in the header to direct through the page.
@@ -23,5 +23,13 @@ One page scroll to read information about each listed topic. Alternatively you c
 ## Visuals
 ![screenshot of Horiseon](assets/images/screenshot.png)
 
+## Resources
+
+[LIVE SITE](https://grahamp98.github.io/seo-refactor/)
+
+[Repository](https://github.com/GrahamP98/seo-refactor)
+
 ## Bugs
-The images in the main portion dont float to the directed areas.
+1. The images in the main portion dont float to the directed areas. 
+
+2. The aside section is on bottom instead of side by side with main section.
