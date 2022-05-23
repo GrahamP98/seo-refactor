@@ -30,6 +30,4 @@ One page scroll to read information about each listed topic. Alternatively you c
 [Repository](https://github.com/GrahamP98/seo-refactor)
 
 ## Bugs
-1. The images in the main portion dont float to the directed areas. 
-
-2. The aside section is on bottom instead of side by side with main section.
+1. N/A (put found bugs here)
