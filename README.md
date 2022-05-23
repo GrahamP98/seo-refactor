@@ -22,7 +22,7 @@ One page scroll to read information about each listed topic. Alternatively you c
 
 ## Visuals
 ![screenshot of Horiseon](assets/images/screenshot.png)
-
+![screenshot of Horiseon](./assets/images/screenshot%20fullscreen.png)
 ## Resources
 
 [LIVE SITE](https://grahamp98.github.io/seo-refactor/)
